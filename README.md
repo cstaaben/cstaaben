@@ -11,7 +11,7 @@
   This is a roguelike written in Go, inspired by the early roguelike Moria. It's my first dedicated foray into game design, and I'm loving the
   challenges so far. You can follow along in my [blog series](https://cstaaben.github.io/tags/roguelike/).
 
-- 🌱 I’m currently learning rust!
+- 🌱 I’m currently learning rust and Godot!
 
 - 📫 [How to reach me](https://cstaaben.github.io/#contact)
 
